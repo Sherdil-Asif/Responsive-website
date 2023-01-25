@@ -1,0 +1,279 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    margin-right: 60px;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.navbar {
+    padding-bottom: 20px;
+
+}
+
+.row {
+
+    margin-top: 5%;
+
+}
+
+.in {
+    margin-top: 5%;
+    font-size: 60px;
+}
+
+.txt {
+    font-size: 25px;
+}
+
+.form {
+    font-size: 25px;
+
+}
+
+.btn {
+    padding: 10px;
+    font-size: 15px;
+}
+
+.im {
+    width: 100%;
+    height: 90%;
+
+}
+
+.cl {
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    background-color: darkgray;
+    padding: 20px;
+
+}
+
+.row-cols-4 {
+    border: 1px solid black;
+}
+
+.counter {
+    font-size: 60px;
+    margin-left: 30%;
+}
+
+.num1 {
+    margin-left: 30%;
+}
+
+.text {
+    margin-top: 5%;
+    font-size: 20px;
+    color: white;
+    margin-left: 10%;
+}
+
+.bit {
+    font-size: 50px;
+    color: white;
+    margin-left: 10%;
+}
+
+.inform {
+    width: 70%;
+    color: antiquewhite;
+    margin-left: 10%;
+}
+
+.pic {
+    margin-left: 7%;
+}
+
+.butn {
+    margin-left: 10%;
+
+}
+
+.fa-amazon {
+    margin-top: 40%;
+    font-size: 45px;
+}
+
+.fa-facebook {
+    margin-top: 40%;
+    font-size: 40px;
+}
+
+.fa-twitter {
+    margin-top: 20%;
+    font-size: 40px;
+}
+
+.fa-google {
+    margin-top: 20%;
+    font-size: 40px;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-top: 10;
+}
+
+.accordion-button {
+    font-size: 20px;
+
+}
+
+.frnd {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.card {
+    padding: 20px;
+}
+
+.card-text {
+    color: gray;
+}
+
+.exper {
+    font-weight: bold;
+    color: gray;
+}
+
+.customers {
+    width: 400px;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 2%;
+}
+
+.create {
+    font-size: 20px;
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 350px;
+    color: lightslategrey;
+}
+
+.Get {
+    margin-left: 2%;
+}
+
+
+.been {
+    font-size: 70px;
+    margin-left: 20%;
+}
+
+
+.fill {
+    margin-top: 10%;
+    font-size: 20px;
+    margin-left: 20%;
+}
+
+.mbl {
+    margin-top: 7%;
+    margin-left: 20%;
+}
+
+.phone {
+    margin-left: 14%;
+    font-size: 20px;
+}
+
+.fa-envelope {
+    margin-top: 7%;
+    margin-left: 20%;
+}
+
+.mail {
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+.fa-location-dot {
+    margin-top: 7%;
+    margin-left: 20%;
+}
+
+.address {
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+.name {
+    margin-left: 15%;
+    margin-top: 10%;
+
+}
+
+.pad {
+    padding-right: 140px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: antiquewhite;
+    border-style: none;
+}
+
+.email {
+    margin-top: 5%;
+    margin-left: 15%;
+
+}
+
+.subject {
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.tell {
+    margin-top: 5%;
+    margin-left: 15%;
+
+}
+
+.msg {
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.hi {
+    margin-left: 10%;
+    font-size: 30px;
+    font-weight: bold;
+    color: antiquewhite;
+
+}
+
+.des {
+    margin-left: 10%;
+    color: antiquewhite;
+}
+
+.put {
+    margin-top: 5%;
+    margin-left: 10%;
+    color: antiquewhite;
+}
+
+.talk {
+    font-size: 60px;
+    margin-left: 10%;
+    color: antiquewhite;
+}
+
+.para {
+    margin-top: 5%;
+    width: 330px;
+    margin-left: 10%;
+    color: antiquewhite;
+
+}
